@@ -1,0 +1,345 @@
+INFO:     10.81.234.134:63828 - "POST /upload_file HTTP/1.1" 200 OK
+WARNING:  WatchFiles detected changes in '.ipynb_checkpoints/test-checkpoint.py'. Reloading...
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [626265]
+INFO:     Started server process [639303]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+WARNING:  WatchFiles detected changes in 'test.py'. Reloading...
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [639303]
+INFO:     Started server process [639631]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+WARNING:  WatchFiles detected changes in 'test.py'. Reloading...
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [639631]
+INFO:     Started server process [738336]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+WARNING:  WatchFiles detected changes in 'test.py'. Reloading...
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [738336]
+INFO:     Started server process [738453]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     10.81.234.4:49958 - "GET /docs HTTP/1.1" 200 OK
+INFO:     10.81.234.4:49958 - "GET /openapi.json HTTP/1.1" 200 OK
+INFO:     103.168.204.253:57767 - "POST /upload_file HTTP/1.1" 200 OK
+INFO:     103.168.204.253:57794 - "POST /upload_file HTTP/1.1" 200 OK
+INFO:     103.168.204.253:58498 - "POST /upload_file HTTP/1.1" 200 OK
+INFO:     103.168.204.253:58500 - "POST /upload_file HTTP/1.1" 200 OK
+INFO:     103.168.204.253:58542 - "POST /upload_file HTTP/1.1" 200 OK
+WARNING:  WatchFiles detected changes in 'cpp.py'. Reloading...
+INFO:     103.168.204.253:58557 - "POST /upload_file HTTP/1.1" 200 OK
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [738453]
+INFO:     Started server process [808143]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     103.168.204.253:58595 - "POST /upload_file HTTP/1.1" 200 OK
+INFO:     10.81.234.5:60680 - "GET /docs HTTP/1.1" 200 OK
+INFO:     10.81.234.5:60680 - "GET /openapi.json HTTP/1.1" 200 OK
+WARNING:  WatchFiles detected changes in 'prompt.py'. Reloading...
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [808143]
+WARNING:  WatchFiles detected changes in 'prompt.py'. Reloading...
+INFO:     Started server process [816380]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     10.81.234.5:60765 - "GET /docs HTTP/1.1" 200 OK
+INFO:     10.81.234.5:60765 - "GET /openapi.json HTTP/1.1" 200 OK
+INFO:     10.81.234.5:61058 - "GET /docs HTTP/1.1" 200 OK
+INFO:     10.81.234.5:61058 - "GET /openapi.json HTTP/1.1" 200 OK
+INFO:     10.81.234.5:61059 - "POST /file HTTP/1.1" 200 OK
+INFO:     10.81.234.5:61402 - "POST /file HTTP/1.1" 200 OK
+INFO:     103.168.204.253:58773 - "POST /upload_file HTTP/1.1" 200 OK
+WARNING:  WatchFiles detected changes in 'prompt.py'. Reloading...
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [816380]
+WARNING:  WatchFiles detected changes in 'prompt.py'. Reloading...
+INFO:     Started server process [859025]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     10.81.234.5:62240 - "GET /docs HTTP/1.1" 200 OK
+INFO:     10.81.234.5:62240 - "GET /openapi.json HTTP/1.1" 200 OK
+INFO:     10.81.234.5:62241 - "POST /file HTTP/1.1" 200 OK
+WARNING:  WatchFiles detected changes in 'prompt.py'. Reloading...
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [859025]
+WARNING:  WatchFiles detected changes in 'prompt.py'. Reloading...
+INFO:     Started server process [878732]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     10.81.234.5:62880 - "POST /file HTTP/1.1" 200 OK
+WARNING:  WatchFiles detected changes in 'prompt.py'. Reloading...
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [878732]
+WARNING:  WatchFiles detected changes in 'prompt.py'. Reloading...
+INFO:     Started server process [896141]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+WARNING:  WatchFiles detected changes in 'prompt.py'. Reloading...
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [896141]
+INFO:     Started server process [896220]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     10.81.234.5:63193 - "GET /docs HTTP/1.1" 200 OK
+INFO:     10.81.234.5:63193 - "GET /openapi.json HTTP/1.1" 200 OK
+INFO:     10.81.234.5:63231 - "POST /file HTTP/1.1" 200 OK
+WARNING:  WatchFiles detected changes in 'prompt.py'. Reloading...
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [896220]
+WARNING:  WatchFiles detected changes in 'prompt.py'. Reloading...
+INFO:     Started server process [905812]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     103.168.204.253:58858 - "POST /upload_file HTTP/1.1" 200 OK
+INFO:     103.168.204.253:58878 - "POST /upload_file HTTP/1.1" 200 OK
+INFO:     103.168.204.253:58894 - "POST /upload_file HTTP/1.1" 200 OK
+INFO:     103.168.204.253:58916 - "POST /upload_file HTTP/1.1" 200 OK
+WARNING:  WatchFiles detected changes in 'prompt.py'. Reloading...
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [905812]
+INFO:     Started server process [950502]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     10.81.234.5:63963 - "GET /docs HTTP/1.1" 200 OK
+INFO:     10.81.234.5:63963 - "GET /openapi.json HTTP/1.1" 200 OK
+INFO:     10.81.234.5:63964 - "POST /file HTTP/1.1" 200 OK
+WARNING:  WatchFiles detected changes in 'prompt.py'. Reloading...
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [950502]
+INFO:     Started server process [962455]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     10.81.234.5:50115 - "POST /file HTTP/1.1" 200 OK
+INFO:     103.168.204.253:59055 - "POST /upload_file HTTP/1.1" 200 OK
+INFO:     103.168.204.253:59070 - "POST /upload_file HTTP/1.1" 200 OK
+INFO:     103.168.204.253:59099 - "POST /upload_file HTTP/1.1" 200 OK
+INFO:     103.168.204.253:59113 - "POST /upload_file HTTP/1.1" 200 OK
+INFO:     103.168.204.253:59206 - "POST /upload_file HTTP/1.1" 200 OK
+INFO:     103.168.204.253:59251 - "POST /upload_file HTTP/1.1" 200 OK
+INFO:     103.168.204.253:59277 - "POST /upload_file HTTP/1.1" 200 OK
+INFO:     103.168.204.253:59291 - "POST /upload_file HTTP/1.1" 200 OK
+INFO:     103.168.204.253:59317 - "POST /upload_file HTTP/1.1" 200 OK
+INFO:     10.81.234.8:51157 - "GET /docs HTTP/1.1" 200 OK
+INFO:     10.81.234.8:51157 - "GET /openapi.json HTTP/1.1" 200 OK
+INFO:     103.168.204.253:59857 - "POST /upload_file HTTP/1.1" 200 OK
+INFO:     103.168.204.253:59866 - "POST /upload_file HTTP/1.1" 200 OK
+INFO:     103.168.204.253:59870 - "POST /upload_file HTTP/1.1" 200 OK
+INFO:     10.81.234.8:52969 - "POST /file HTTP/1.1" 200 OK
+INFO:     103.168.204.253:59966 - "POST /upload_file HTTP/1.1" 200 OK
+INFO:     103.168.204.253:59971 - "POST /upload_file HTTP/1.1" 200 OK
+INFO:     103.168.204.253:59999 - "POST /upload_file HTTP/1.1" 200 OK
+INFO:     103.168.204.253:60027 - "POST /upload_file HTTP/1.1" 200 OK
+INFO:     103.168.204.253:60045 - "POST /upload_file HTTP/1.1" 200 OK
+INFO:     103.168.204.253:60127 - "POST /upload_file HTTP/1.1" 200 OK
+INFO:     103.168.204.253:60143 - "POST /upload_file HTTP/1.1" 200 OK
+INFO:     103.168.204.253:60157 - "POST /upload_file HTTP/1.1" 200 OK
+INFO:     103.168.204.253:60307 - "POST /upload_file HTTP/1.1" 200 OK
+INFO:     103.168.204.253:60325 - "POST /upload_file HTTP/1.1" 200 OK
+INFO:     103.168.204.253:61321 - "POST /upload_file HTTP/1.1" 200 OK
+INFO:     103.168.204.253:61342 - "POST /upload_file HTTP/1.1" 200 OK
+INFO:     103.168.204.253:61470 - "POST /upload_file HTTP/1.1" 200 OK
+INFO:     103.168.204.253:61493 - "POST /upload_file HTTP/1.1" 200 OK
+INFO:     103.168.204.253:61511 - "POST /upload_file HTTP/1.1" 200 OK
+INFO:     103.168.204.253:61540 - "POST /upload_file HTTP/1.1" 200 OK
+INFO:     103.168.204.253:61570 - "POST /upload_file HTTP/1.1" 200 OK
+INFO:     103.168.204.253:61589 - "POST /upload_file HTTP/1.1" 200 OK
+INFO:     103.168.204.253:61603 - "POST /upload_file HTTP/1.1" 200 OK
+INFO:     103.168.204.253:61633 - "POST /upload_file HTTP/1.1" 200 OK
+INFO:     103.168.204.253:61801 - "POST /upload_file HTTP/1.1" 200 OK
+WARNING:  WatchFiles detected changes in 'test.py'. Reloading...
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [962455]
+WARNING:  WatchFiles detected changes in 'test.py'. Reloading...
+WARNING:  WatchFiles detected changes in 'test.py'. Reloading...
+INFO:     Started server process [1730986]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+WARNING:  WatchFiles detected changes in 'venv/lib64/python3.10/site-packages/llama_cpp/llama_speculative.py', 'venv/lib64/python3.10/site-packages/~lama_cpp/llama_tokenizer.py', 'venv/lib64/python3.10/site-packages/~in/convert-lora-to-ggml.py', 'venv/lib64/python3.10/site-packages/llama_cpp/llama_chat_format.py', 'venv/lib64/python3.10/site-packages/llama_cpp/server/model.py', 'venv/lib64/python3.10/site-packages/~lama_cpp/server/__main__.py', 'venv/lib64/python3.10/site-packages/~lama_cpp/_internals.py', 'venv/lib64/python3.10/site-packages/~lama_cpp/llama.py', 'venv/lib64/python3.10/site-packages/~lama_cpp/__init__.py', 'venv/lib64/python3.10/site-packages/llama_cpp/server/types.py', 'venv/lib64/python3.10/site-packages/~lama_cpp/server/__init__.py', 'venv/lib64/python3.10/site-packages/llama_cpp/llama_types.py', 'venv/lib64/python3.10/site-packages/llama_cpp/_logger.py', 'venv/lib64/python3.10/site-packages/~lama_cpp/llava_cpp.py', 'venv/lib64/python3.10/site-packages/~lama_cpp/_utils.py', 'venv/lib64/python3.10/site-packages/llama_cpp/llama_grammar.py', 'venv/lib64/python3.10/site-packages/llama_cpp/llama_cpp.py', 'venv/lib64/python3.10/site-packages/llama_cpp/server/errors.py', 'venv/lib64/python3.10/site-packages/llama_cpp/server/cli.py', 'venv/lib64/python3.10/site-packages/llama_cpp/llama_cache.py', 'venv/lib64/python3.10/site-packages/llama_cpp/server/settings.py', 'venv/lib64/python3.10/site-packages/~lama_cpp/server/errors.py', 'venv/lib64/python3.10/site-packages/~lama_cpp/server/cli.py', 'venv/lib64/python3.10/site-packages/~lama_cpp/llama_speculative.py', 'venv/lib64/python3.10/site-packages/~lama_cpp/server/model.py', 'venv/lib64/python3.10/site-packages/~lama_cpp/server/settings.py', 'venv/lib64/python3.10/site-packages/llama_cpp/server/app.py', 'venv/lib64/python3.10/site-packages/~lama_cpp/llama_chat_format.py', 'venv/lib64/python3.10/site-packages/llama_cpp/llama_tokenizer.py', 'venv/lib64/python3.10/site-packages/~lama_cpp/server/app.py', 'venv/lib64/python3.10/site-packages/~lama_cpp/server/types.py', 'venv/lib64/python3.10/site-packages/llama_cpp/_internals.py', 'venv/lib64/python3.10/site-packages/~lama_cpp/llama_types.py', 'venv/lib64/python3.10/site-packages/~lama_cpp/_logger.py', 'venv/lib64/python3.10/site-packages/~lama_cpp/llama_grammar.py', 'venv/lib64/python3.10/site-packages/~lama_cpp/llama_cpp.py', 'venv/lib64/python3.10/site-packages/llama_cpp/server/__main__.py', 'venv/lib64/python3.10/site-packages/llama_cpp/llama.py', 'venv/lib64/python3.10/site-packages/llama_cpp/__init__.py', 'venv/lib64/python3.10/site-packages/~lama_cpp/llama_cache.py', 'venv/lib64/python3.10/site-packages/~in/convert.py', 'venv/lib64/python3.10/site-packages/llama_cpp/llava_cpp.py', 'venv/lib64/python3.10/site-packages/llama_cpp/_utils.py'. Reloading...
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [1730986]
+INFO:     Started server process [1731245]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+WARNING:  WatchFiles detected changes in 'test.py'. Reloading...
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [1731245]
+WARNING:  WatchFiles detected changes in 'test.py'. Reloading...
+INFO:     Started server process [1731340]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     10.81.234.133:57569 - "GET /docs HTTP/1.1" 200 OK
+INFO:     10.81.234.133:57569 - "GET /openapi.json HTTP/1.1" 200 OK
+WARNING:  WatchFiles detected changes in 'process.py'. Reloading...
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [1731340]
+INFO:     Started server process [1744637]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     10.81.234.133:51050 - "GET /docs HTTP/1.1" 200 OK
+INFO:     10.81.234.133:51050 - "GET /openapi.json HTTP/1.1" 200 OK
+INFO:     103.168.204.253:50046 - "POST /upload_file HTTP/1.1" 200 OK
+WARNING:  WatchFiles detected changes in 'process.py'. Reloading...
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [1744637]
+INFO:     Started server process [1744748]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     10.81.234.133:51134 - "POST /upload_file HTTP/1.1" 200 OK
+WARNING:  WatchFiles detected changes in 'process.py'. Reloading...
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [1744748]
+WARNING:  WatchFiles detected changes in 'process.py'. Reloading...
+INFO:     Started server process [1744858]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     10.81.234.133:51150 - "POST /upload_file HTTP/1.1" 200 OK
+INFO:     103.168.204.253:50067 - "POST /upload_file HTTP/1.1" 200 OK
+WARNING:  WatchFiles detected changes in 'test.py'. Reloading...
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [1744858]
+WARNING:  WatchFiles detected changes in 'test.py'. Reloading...
+INFO:     Started server process [1774571]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+WARNING:  WatchFiles detected changes in 'test.py'. Reloading...
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [1774571]
+WARNING:  WatchFiles detected changes in 'test.py'. Reloading...
+INFO:     Started server process [1774658]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     103.168.204.253:50106 - "POST /upload_file HTTP/1.1" 200 OK
+INFO:     103.168.204.253:50134 - "POST /upload_file HTTP/1.1" 200 OK
+INFO:     103.168.204.253:51114 - "POST /upload_file HTTP/1.1" 200 OK
+INFO:     103.168.204.253:51135 - "POST /upload_file HTTP/1.1" 200 OK
+INFO:     103.168.204.253:51214 - "POST /upload_file HTTP/1.1" 200 OK
+WARNING:  WatchFiles detected changes in 'test.py'. Reloading...
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [1774658]
+INFO:     Started server process [1837521]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+WARNING:  WatchFiles detected changes in 'test.py'. Reloading...
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [1837521]
+WARNING:  WatchFiles detected changes in 'test.py'. Reloading...
+INFO:     Started server process [1847455]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+WARNING:  WatchFiles detected changes in 'test.py'. Reloading...
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [1847455]
+WARNING:  WatchFiles detected changes in 'test.py'. Reloading...
+INFO:     Started server process [1857379]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+WARNING:  WatchFiles detected changes in 'test.py'. Reloading...
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [1857379]
+WARNING:  WatchFiles detected changes in 'test.py'. Reloading...
+INFO:     Started server process [1867340]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     103.168.204.253:51355 - "POST /upload_file HTTP/1.1" 200 OK
+INFO:     103.168.204.253:51359 - "POST /upload_file HTTP/1.1" 200 OK
+INFO:     103.168.204.253:52299 - "POST /upload_file HTTP/1.1" 200 OK
+INFO:     103.168.204.253:52305 - "POST /upload_file HTTP/1.1" 200 OK
+INFO:     103.168.204.253:52335 - "POST /upload_file HTTP/1.1" 200 OK
+INFO:     103.168.204.253:52470 - "POST /upload_file HTTP/1.1" 200 OK
+INFO:     103.168.204.253:52543 - "POST /upload_file HTTP/1.1" 200 OK
+INFO:     103.168.204.253:52556 - "POST /upload_file HTTP/1.1" 200 OK
+INFO:     103.168.204.253:52587 - "POST /upload_file HTTP/1.1" 200 OK
+INFO:     103.168.204.253:52620 - "POST /upload_file HTTP/1.1" 200 OK
+INFO:     103.168.204.253:52624 - "POST /upload_file HTTP/1.1" 200 OK
+WARNING:  WatchFiles detected changes in 'cpp.py'. Reloading...
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [1867340]
+INFO:     Started server process [2060919]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     103.168.204.253:52651 - "POST /upload_file HTTP/1.1" 200 OK
+INFO:     103.168.204.253:52657 - "POST /upload_file HTTP/1.1" 200 OK
+INFO:     103.168.204.253:52720 - "POST /upload_file HTTP/1.1" 200 OK
+INFO:     103.168.204.253:52760 - "POST /upload_file HTTP/1.1" 200 OK
+INFO:     103.168.204.253:52763 - "POST /upload_file HTTP/1.1" 200 OK
+INFO:     103.168.204.253:52791 - "POST /upload_file HTTP/1.1" 200 OK
+INFO:     103.168.204.253:52794 - "POST /upload_file HTTP/1.1" 200 OK
+INFO:     103.168.204.253:53639 - "POST /upload_file HTTP/1.1" 200 OK
+INFO:     103.168.204.253:53643 - "POST /upload_file HTTP/1.1" 200 OK
+INFO:     103.168.204.253:53651 - "POST /upload_file HTTP/1.1" 200 OK
+INFO:     103.168.204.253:53721 - "POST /upload_file HTTP/1.1" 200 OK
+INFO:     103.168.204.253:53725 - "POST /upload_file HTTP/1.1" 200 OK
+INFO:     103.168.204.253:53773 - "POST /upload_file HTTP/1.1" 200 OK
+INFO:     103.168.204.253:53779 - "POST /upload_file HTTP/1.1" 200 OK
+INFO:     103.168.204.253:53798 - "POST /upload_file HTTP/1.1" 200 OK
+INFO:     103.168.204.253:53863 - "POST /upload_file HTTP/1.1" 200 OK
+INFO:     103.168.204.253:53876 - "POST /upload_file HTTP/1.1" 200 OK
+INFO:     103.168.204.253:53889 - "POST /upload_file HTTP/1.1" 200 OK
+INFO:     103.168.204.253:53905 - "POST /upload_file HTTP/1.1" 200 OK
+INFO:     103.168.204.253:53945 - "POST /upload_file HTTP/1.1" 200 OK
+INFO:     103.168.204.253:53979 - "POST /upload_file HTTP/1.1" 200 OK
+INFO:     103.168.204.253:54005 - "POST /upload_file HTTP/1.1" 200 OK
+INFO:     103.168.204.253:54029 - "POST /upload_file HTTP/1.1" 200 OK
+INFO:     103.168.204.253:54120 - "POST /upload_file HTTP/1.1" 200 OK
+INFO:     103.168.204.253:54134 - "POST /upload_file HTTP/1.1" 200 OK
+INFO:     103.168.204.253:54151 - "POST /upload_file HTTP/1.1" 200 OK
+INFO:     103.168.204.253:54918 - "POST /upload_file HTTP/1.1" 200 OK
+INFO:     10.81.234.130:61340 - "GET /docs HTTP/1.1" 200 OK
+INFO:     10.81.234.130:61340 - "GET /openapi.json HTTP/1.1" 200 OK
